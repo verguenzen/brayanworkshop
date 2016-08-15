@@ -1,0 +1,9 @@
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\bin\Debug\proyectoGame.exe.config
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\obj\Debug\proyectoGame.exe
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\obj\Debug\proyectoGame.pdb
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\bin\Debug\proyectoGame.exe
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\bin\Debug\proyectoGame.pdb
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\obj\Debug\proyectoGame.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\obj\Debug\proyectoGame.Form1.resources
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\obj\Debug\proyectoGame.Properties.Resources.resources
+C:\Users\Jesus\Downloads\proyectoGame\proyectoGame\obj\Debug\proyectoGame.csproj.GenerateResource.Cache
